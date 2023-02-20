@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EPRIN Klient V3/1.0.0": {
+        "runtime": {
+          "EPRIN Klient V3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EPRIN Klient V3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

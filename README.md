@@ -9,6 +9,7 @@ server umožnuje obsluhovat zároveň všechny připojené klienty.
 Server ukládá data(text) a odesílá ihned všem klientům.
 Při každém zápisu dat se ukládá záloha.
 Pokud se server vypne a nebo dojde k výpadku, při opětovném spuštění se načte poslední záloha dat.
+Veškeré dění na serveru se vypisuje do serverlogu.
 
 
 Client app
